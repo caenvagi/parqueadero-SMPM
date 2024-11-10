@@ -1,0 +1,9 @@
+{
+    "editor.folding": true,
+    "editor.defaultFoldingRangeProvider": null,
+    "editor.foldingHighlight": true,
+    "editor.foldingStrategy": "indentation",
+    "conventionalCommits.scopes": [
+        "recibos y tickets en impresion en silencio"
+    ]
+}
